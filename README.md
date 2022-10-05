@@ -15,7 +15,7 @@ En vous appuyant sur le composant `utils` dans lequel de la data a été chargé
 - Creer un filtre permettant de selectionner les demandes active/inactive sur la typologie selectionnée.
 
 
-### Fiche Technique
+### Détails Technique
   
 | Nom Composant | Role Composant |
 | :--- | :--- |
