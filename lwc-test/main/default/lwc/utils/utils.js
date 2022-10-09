@@ -10,6 +10,7 @@
  const data = {
     'incident' : [
         {
+        "id": "1",
         "isActive": false,
         "status": "en attente",
         "description": "reprehenderit aliqua qui sint qui qui consequat occaecat veniam Lorem consectetur mollit et anim reprehenderit nostrud cillum irure laboris esse",
@@ -22,6 +23,7 @@
         }
         },
         {
+        "id": "2",
         "isActive": true,
         "status": "en attente",
         "description": "non labore ipsum incididunt laborum ex velit deserunt eiusmod in consequat commodo deserunt laborum non aliqua mollit velit magna velit",
@@ -34,6 +36,7 @@
         }
         },
         {
+        "id": "3",
         "isActive": false,
         "status": "clos",
         "description": "adipisicing est occaecat dolor incididunt consectetur proident in veniam aliqua ullamco amet duis sunt consequat ut et esse consectetur quis",
@@ -46,6 +49,7 @@
         }
         },
         {
+        "id": "4",
         "isActive": false,
         "status": "en attente",
         "description": "dolor eiusmod velit veniam est duis officia minim irure sunt incididunt nulla fugiat ipsum officia sit Lorem cupidatat non est",
@@ -58,6 +62,7 @@
         }
         },
         {
+        "id": "5",
         "isActive": false,
         "status": "en cours",
         "description": "adipisicing irure voluptate quis deserunt est anim tempor est occaecat mollit duis magna exercitation ipsum velit sunt ex labore id",
@@ -72,6 +77,7 @@
     ],
     'evenement' : [
         {
+        "id": "6",
         "isActive": false,
         "status": "en cours",
         "description": "non esse consectetur non est enim ut enim quis cupidatat do dolore laboris nulla culpa ex voluptate proident pariatur ex",
@@ -84,6 +90,7 @@
         }
         },
         {
+        "id": "7",
         "isActive": false,
         "status": "en attente",
         "description": "ad qui dolore reprehenderit exercitation qui minim do cupidatat dolor cupidatat ipsum nulla mollit reprehenderit officia proident culpa dolor anim",
@@ -96,6 +103,7 @@
         }
         },
         {
+        "id": "8",
         "isActive": false,
         "status": "en attente",
         "description": "est id sunt nulla ad duis culpa nulla duis anim labore laborum irure nostrud do nulla ad veniam laboris sit",
@@ -108,6 +116,7 @@
         }
         },
         {
+        "id": "9",
         "isActive": false,
         "status": "clos",
         "description": "laborum quis in ut aliquip velit nulla pariatur ex deserunt veniam duis proident pariatur dolor ipsum aliqua cillum do amet",
@@ -120,6 +129,7 @@
         }
         },
         {
+        "id": "10",
         "isActive": false,
         "status": "en cours",
         "description": "quis ex quis exercitation sit sint ea sit dolore dolor anim incididunt elit sunt ad quis qui cupidatat ut cillum",
@@ -134,6 +144,7 @@
     ],
     'demande_de_devis' : [
         {
+        "id": "11",
         "isActive": false,
         "status": "clos",
         "description": "amet aute enim qui minim id cupidatat occaecat qui qui et in magna commodo anim est laboris duis cillum cillum",
@@ -146,6 +157,7 @@
         }
         },
         {
+        "id": "12",
         "isActive": true,
         "status": "clos",
         "description": "nisi excepteur ea qui reprehenderit sunt pariatur ut incididunt magna dolor sit irure tempor duis anim veniam adipisicing duis ut",
@@ -158,6 +170,7 @@
         }
         },
         {
+        "id": "13",
         "isActive": true,
         "status": "clos",
         "description": "minim aute ut anim excepteur pariatur voluptate minim pariatur culpa Lorem laboris ea minim deserunt aliquip enim fugiat duis anim",
@@ -170,6 +183,7 @@
         }
         },
         {
+        "id": "14",
         "isActive": true,
         "status": "en cours",
         "description": "ea reprehenderit qui nisi exercitation excepteur adipisicing cupidatat velit qui consectetur nisi veniam non do veniam Lorem sint labore eu",
@@ -182,6 +196,7 @@
         }
         },
         {
+        "id": "15",
         "isActive": true,
         "status": "clos",
         "description": "sint reprehenderit sit exercitation nostrud laborum consequat voluptate duis aliquip eu sint laboris in incididunt exercitation id laborum voluptate aute",
@@ -194,6 +209,7 @@
         }
         },
         {
+        "id": "16",
         "isActive": true,
         "status": "clos",
         "description": "qui et aliqua fugiat excepteur fugiat cupidatat ad incididunt nisi ex ad consectetur ullamco ad magna enim elit mollit culpa",
@@ -208,6 +224,7 @@
     ],
     'demande_de_prestation' :[
         {
+        "id": "17",
         "isActive": true,
         "status": "clos",
         "description": "commodo sit pariatur laborum Lorem proident non aute exercitation veniam duis aliqua qui non mollit cupidatat voluptate eu commodo excepteur",
@@ -220,6 +237,7 @@
         }
         },
         {
+        "id": "18",
         "isActive": true,
         "status": "clos",
         "description": "officia aliqua consequat anim consectetur cillum aliquip sint duis reprehenderit proident reprehenderit laborum occaecat incididunt in culpa aliqua tempor magna",
@@ -232,6 +250,7 @@
         }
         },
         {
+        "id": "19",
         "isActive": false,
         "status": "clos",
         "description": "occaecat in occaecat do laborum eiusmod do aliqua laborum sunt dolor consequat nostrud duis incididunt adipisicing velit do minim consequat",
@@ -244,6 +263,7 @@
         }
         },
         {
+        "id": "20",
         "isActive": true,
         "status": "en attente",
         "description": "minim pariatur labore est dolore sunt Lorem elit consectetur exercitation ea deserunt culpa tempor aliqua aliquip nostrud ex culpa pariatur",
@@ -256,6 +276,7 @@
         }
         },
         {
+        "id": "21",
         "isActive": false,
         "status": "en attente",
         "description": "enim amet elit dolor labore consectetur enim anim cupidatat laboris ut voluptate consequat excepteur adipisicing minim ullamco velit labore aute",
@@ -268,6 +289,7 @@
         }
         },
         {
+        "id": "22",
         "isActive": false,
         "status": "clos",
         "description": "consectetur aliqua eiusmod reprehenderit esse pariatur deserunt consequat et in amet irure culpa nostrud sit duis est reprehenderit ex minim",
@@ -280,6 +302,7 @@
         }
         },
         {
+        "id": "23",
         "isActive": true,
         "status": "en cours",
         "description": "do ut proident enim amet aliquip incididunt aliqua magna minim eu deserunt laborum nisi duis et dolor quis ex duis",
@@ -292,6 +315,7 @@
         }
         },
         {
+        "id": "24",
         "isActive": false,
         "status": "clos",
         "description": "amet non ipsum pariatur eu anim in enim non id ea pariatur ipsum nisi voluptate occaecat cupidatat nostrud cupidatat pariatur",
@@ -304,6 +328,7 @@
         }
         },
         {
+        "id": "25",
         "isActive": false,
         "status": "en cours",
         "description": "deserunt excepteur esse incididunt aliquip pariatur quis nisi et ea aute adipisicing est in ea enim esse veniam adipisicing et",
@@ -316,6 +341,7 @@
         }
         },
         {
+        "id": "26",
         "isActive": true,
         "status": "clos",
         "description": "sint commodo incididunt dolore duis id labore minim aute exercitation aute consectetur in deserunt qui ex Lorem et duis anim",
@@ -328,6 +354,7 @@
         }
         },
         {
+        "id": "27",
         "isActive": true,
         "status": "en attente",
         "description": "incididunt reprehenderit consequat consequat reprehenderit eiusmod deserunt nulla occaecat laboris sint mollit eiusmod irure aliqua cillum laborum consequat qui laborum",
@@ -340,6 +367,7 @@
         }
         },
         {
+        "id": "28",
         "isActive": false,
         "status": "en cours",
         "description": "incididunt non irure reprehenderit anim laborum quis proident dolor nulla culpa veniam non mollit tempor cupidatat qui occaecat laborum est",
@@ -352,6 +380,7 @@
         }
         },
         {
+        "id": "29",
         "isActive": false,
         "status": "en attente",
         "description": "in ea aute laborum non labore nisi ea deserunt laboris velit ipsum dolore pariatur mollit ut id exercitation ullamco eiusmod",
@@ -366,6 +395,7 @@
     ],
     'incident_clos' : [
         {
+        "id": "30",
         "isActive": true,
         "status": "clos",
         "description": "deserunt officia officia laboris proident quis occaecat nostrud Lorem duis sunt nulla Lorem mollit ea cillum nisi ad exercitation exercitation",
@@ -378,6 +408,7 @@
         }
         },
         {
+        "id": "31",
         "isActive": true,
         "status": "en cours",
         "description": "sit do labore et dolore ipsum deserunt esse excepteur mollit ut ut nulla voluptate proident nulla aliqua nostrud non laboris",
@@ -390,6 +421,7 @@
         }
         },
         {
+        "id": "32",
         "isActive": true,
         "status": "en attente",
         "description": "do ad ut ad ipsum elit elit adipisicing ullamco enim labore excepteur ullamco ea reprehenderit Lorem est eiusmod dolor excepteur",
@@ -402,6 +434,7 @@
         }
         },
         {
+        "id": "33",
         "isActive": true,
         "status": "en attente",
         "description": "consequat est ullamco deserunt ex irure tempor ipsum veniam veniam esse nulla sit aliquip ullamco mollit ad culpa aliquip laborum",
@@ -414,6 +447,7 @@
         }
         },
         {
+        "id": "34",
         "isActive": true,
         "status": "en cours",
         "description": "adipisicing enim exercitation incididunt magna nostrud duis excepteur ut ad occaecat ut aute eu laboris deserunt quis aute nostrud ea",
@@ -426,6 +460,7 @@
         }
         },
         {
+        "id": "35",
         "isActive": false,
         "status": "clos",
         "description": "dolor culpa pariatur pariatur voluptate sint sit dolor esse ex qui Lorem cillum deserunt occaecat culpa proident deserunt tempor est",
@@ -438,6 +473,7 @@
         }
         },
         {
+        "id": "36",
         "isActive": false,
         "status": "clos",
         "description": "fugiat excepteur dolor ullamco do officia deserunt adipisicing incididunt sint id Lorem sit minim duis amet minim laboris aute aliquip",
@@ -450,6 +486,7 @@
         }
         },
         {
+        "id": "37",
         "isActive": true,
         "status": "clos",
         "description": "in ea fugiat velit eiusmod consectetur est ut sit non dolor ut nisi excepteur sit amet Lorem sint eiusmod occaecat",
@@ -462,6 +499,7 @@
         }
         },
         {
+        "id": "38",
         "isActive": false,
         "status": "en cours",
         "description": "veniam aliqua voluptate proident irure exercitation nisi officia ipsum deserunt duis id magna ullamco dolore quis deserunt ipsum in ad",
@@ -474,6 +512,7 @@
         }
         },
         {
+        "id": "39",
         "isActive": false,
         "status": "en cours",
         "description": "Lorem mollit in dolore velit fugiat laboris consectetur est officia voluptate enim veniam voluptate magna sit et id incididunt reprehenderit",
@@ -486,6 +525,7 @@
         }
         },
         {
+        "id": "40",
         "isActive": false,
         "status": "en cours",
         "description": "sit irure magna incididunt exercitation duis tempor Lorem adipisicing enim proident eu id adipisicing ut commodo aliquip excepteur ea Lorem",
@@ -498,6 +538,7 @@
         }
         },
         {
+        "id": "41",
         "isActive": false,
         "status": "en attente",
         "description": "nulla minim ea velit in consequat minim quis mollit eu eu velit aliqua fugiat ad sint mollit do in irure",
@@ -510,6 +551,7 @@
         }
         },
         {
+        "id": "42",
         "isActive": false,
         "status": "en cours",
         "description": "ipsum anim cupidatat velit anim non excepteur aliquip dolore magna excepteur sunt ad minim est et aute amet nostrud anim",
@@ -522,6 +564,7 @@
         }
         },
         {
+        "id": "43",
         "isActive": false,
         "status": "en cours",
         "description": "cupidatat ex incididunt et ad do commodo dolore commodo qui sunt voluptate aliquip proident aliquip ipsum eiusmod ut proident duis",
@@ -534,6 +577,7 @@
         }
         },
         {
+        "id": "44",
         "isActive": true,
         "status": "clos",
         "description": "do et id aliqua ad eiusmod nostrud ipsum anim cupidatat cillum amet voluptate quis magna ex culpa ullamco laborum irure",
@@ -546,6 +590,7 @@
         }
         },
         {
+        "id": "45",
         "isActive": true,
         "status": "en attente",
         "description": "dolore eu elit Lorem irure fugiat do veniam incididunt magna proident dolor mollit elit adipisicing quis sunt excepteur esse reprehenderit",
@@ -558,6 +603,7 @@
         }
         },
         {
+        "id": "46",
         "isActive": true,
         "status": "en attente",
         "description": "adipisicing anim labore Lorem veniam mollit deserunt cillum cillum exercitation commodo veniam dolore culpa nostrud est ullamco exercitation aute veniam",
@@ -570,6 +616,7 @@
         }
         },
         {
+        "id": "47",
         "isActive": true,
         "status": "clos",
         "description": "aute mollit voluptate eu in excepteur proident veniam in ea mollit quis ex sunt sunt quis veniam pariatur aute voluptate",
@@ -582,6 +629,7 @@
         }
         },
         {
+        "id": "48",
         "isActive": false,
         "status": "en cours",
         "description": "ut Lorem nisi labore reprehenderit Lorem cupidatat occaecat officia proident anim laborum dolor fugiat Lorem duis sunt sunt non do",
@@ -594,6 +642,7 @@
         }
         },
         {
+        "id": "49",
         "isActive": true,
         "status": "en cours",
         "description": "culpa laborum nostrud fugiat pariatur laboris tempor consequat qui mollit ut nisi aute Lorem ullamco dolore deserunt consequat ullamco aute",
@@ -606,6 +655,7 @@
         }
         },
         {
+        "id": "50",
         "isActive": false,
         "status": "clos",
         "description": "aliquip commodo duis laborum aliquip voluptate dolore ut ut proident anim do quis eu nostrud enim reprehenderit consectetur fugiat magna",
@@ -618,6 +668,7 @@
         }
         },
         {
+        "id": "51",
         "isActive": false,
         "status": "clos",
         "description": "est Lorem nulla minim in incididunt est laborum sunt sunt anim adipisicing laborum sit laborum ut reprehenderit laboris deserunt nulla",
@@ -630,6 +681,7 @@
         }
         },
         {
+        "id": "52",
         "isActive": false,
         "status": "en cours",
         "description": "non minim fugiat pariatur sunt sunt nisi non reprehenderit esse aute et anim consectetur enim enim do duis pariatur deserunt",
@@ -642,6 +694,7 @@
         }
         },
         {
+        "id": "53",
         "isActive": true,
         "status": "en attente",
         "description": "do tempor nostrud excepteur veniam laborum aute in nisi adipisicing sint labore officia aute sunt laboris occaecat est velit incididunt",
@@ -654,6 +707,7 @@
         }
         },
         {
+        "id": "54",
         "isActive": true,
         "status": "en cours",
         "description": "aute occaecat laborum officia pariatur qui dolor dolor veniam minim est tempor mollit esse anim ut nisi excepteur adipisicing aliquip",
@@ -666,6 +720,7 @@
         }
         },
         {
+        "id": "55",
         "isActive": false,
         "status": "en cours",
         "description": "et et officia amet occaecat nulla ea proident voluptate ullamco non nulla qui sint nostrud reprehenderit labore incididunt anim Lorem",
@@ -678,6 +733,7 @@
         }
         },
         {
+        "id": "56",
         "isActive": false,
         "status": "clos",
         "description": "in aliqua labore fugiat exercitation ex magna officia duis id dolor occaecat nisi ea labore do ea esse culpa exercitation",
@@ -690,6 +746,7 @@
         }
         },
         {
+        "id": "57",
         "isActive": true,
         "status": "clos",
         "description": "commodo pariatur do esse exercitation voluptate esse ullamco reprehenderit exercitation nisi consectetur tempor laborum amet irure irure enim et reprehenderit",
@@ -702,6 +759,7 @@
         }
         },
         {
+        "id": "58",
         "isActive": false,
         "status": "clos",
         "description": "aliqua voluptate sunt excepteur ad veniam nisi consectetur aliquip velit incididunt reprehenderit sunt et Lorem nulla deserunt pariatur commodo deserunt",
@@ -714,6 +772,7 @@
         }
         },
         {
+        "id": "59",
         "isActive": false,
         "status": "en cours",
         "description": "consequat qui occaecat proident ea nisi fugiat veniam elit incididunt duis culpa incididunt sit mollit proident ut amet non commodo",
@@ -726,6 +785,7 @@
         }
         },
         {
+        "id": "60",
         "isActive": false,
         "status": "en attente",
         "description": "ipsum est amet deserunt ullamco aute est pariatur aute quis ipsum reprehenderit consequat laborum id in sunt quis commodo sit",
@@ -738,6 +798,7 @@
         }
         },
         {
+        "id": "61",
         "isActive": false,
         "status": "clos",
         "description": "pariatur tempor ut irure est cupidatat adipisicing reprehenderit culpa irure sit eu voluptate commodo fugiat nostrud sit commodo ut anim",
@@ -750,6 +811,7 @@
         }
         },
         {
+        "id": "62",
         "isActive": false,
         "status": "en attente",
         "description": "mollit duis mollit aliqua proident deserunt proident aliqua amet tempor eu enim labore amet id dolore duis magna ad duis",
@@ -762,6 +824,7 @@
         }
         },
         {
+        "id": "63",
         "isActive": false,
         "status": "en attente",
         "description": "esse sint occaecat officia occaecat ad deserunt culpa minim voluptate aute qui occaecat nisi aliquip officia velit anim enim minim",
@@ -774,6 +837,7 @@
         }
         },
         {
+        "id": "64",
         "isActive": true,
         "status": "clos",
         "description": "officia eiusmod officia ex id qui veniam anim excepteur labore non nisi dolor aliquip laborum adipisicing incididunt sunt dolore laborum",
@@ -786,6 +850,7 @@
         }
         },
         {
+        "id": "65",
         "isActive": false,
         "status": "en cours",
         "description": "pariatur consequat enim sit duis deserunt laboris ea ipsum cillum cupidatat ipsum nostrud cupidatat laboris aute qui cillum ullamco velit",
@@ -802,10 +867,17 @@
 
 // function allowing to get cases by typolgy 
 export const getCasesByTypology = (typology) => { 
-    return data[typology];
+
+    if(typology === "all"){
+        return data;
+    }
+    else{
+        return data[typology];
+    }
 }
 // const allowing to display typologies
 export const caseTypologies = [
+    { label:'Tout', value:'all' },
     { label:'Incident', value:'incident' },
     { label:'Evenement', value:'evenement' },
     { label:'Demande de devis', value:'demande_de_devis' },
@@ -815,10 +887,13 @@ export const caseTypologies = [
 
 // const allowing to display columns
 export const columns = [
-    { label: 'Description', fieldName: 'description' },
-    { label: 'Status', fieldName: 'Status' },
-    { label: 'Account Phone', fieldName: 'account.phone', type: 'phone' },
-    { label: 'Account Email', fieldName:'account.email', type: 'email' },
-    { label: 'Account Company', fieldName:'account.company' }
+    { label: 'Record Type Name', fieldName: 'recordType' },
+    { label: 'Description', fieldName: 'description', wrapText: true },
+    { label: 'Status', fieldName: 'status' },
+    { label: 'Account Phone', fieldName: 'accountPhone', type: 'phone' },
+    { label: 'Account Email', fieldName:'accountEmail', type: 'email' },
+    { label: 'Account Company', fieldName:'accountCompany' },
+    { label: 'Account Address', fieldName:'accountAddress', wrapText: true },
+    { label: 'Active', fieldName: 'isActive', type: 'boolean' }
 ];
         
