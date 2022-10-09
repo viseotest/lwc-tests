@@ -1,0 +1,27 @@
+<template>
+
+    <lightning-card>
+
+        <div class="c-container">
+
+            <lightning-layout vertical-align="end" horizontal-align="end">
+                <lightning-layout-item padding="around-small" size="3">
+                    <c-case-listview-record-type-selector typology-selected={typologySelected} record-types-list={recordTypesList}
+                     onchangerecordtype={handleRefreshData}>
+                    </c-case-listview-record-type-selector>
+                </lightning-layout-item>
+
+                <lightning-layout-item padding="around-small" size="9" alignment-bump="right">
+                    <c-case-listview-filter onfiltercases={handleFilter}>
+                    </c-case-listview-filter>
+                </lightning-layout-item>
+            </lightning-layout>
+
+            <lightning-layout vertical-align="end">
+                <lightning-layout-item padding="around-small" size="12">
+                    <c-case-listview-datatable cases-list={casesList} columns={columns}></c-case-listview-datatable>
+                </lightning-layout-item>
+            </lightning-layout>
+        </div>
+    </lightning-card>
+</template>
